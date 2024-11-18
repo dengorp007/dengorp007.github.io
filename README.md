@@ -11,4 +11,6 @@
 -  Lab 5
    -  [Resume](https://dengorp007.github.io/lab_05/resume.html)
 -  Lab 6
-   -  [Calculator](https://dengorp007.github.io/lab_06/calculator.html)  
+   -  [Calculator](https://dengorp007.github.io/lab_06/calculator.html)
+-  Lab 7
+   -  [Guess Number](https://dengorp007.github.io/lab_07/index777.html)
