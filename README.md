@@ -1,4 +1,4 @@
-# dengorp007.github.io
+
 # Denys Horpynenko
 - Lab 1
    - [Food Page](https://dengorp007.github.io/lab_01/food-page/food-page1.html)
