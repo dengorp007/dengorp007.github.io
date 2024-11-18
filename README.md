@@ -15,6 +15,6 @@
 -  Lab 7
    -  [Guess Number](https://dengorp007.github.io/lab_07/index777.html)
 -  Lab 8
-   -  [File Manager](https://dengorp007.github.iolab_08/file-manager.html)
+   -  [File Manager](https://dengorp007.github.io/lab_08/file-manager.html)
 -  Lab 9
-   -  [Cards](lab_09/memory-game.html)
+   -  [Cards](https://dengorp007.github.io/lab_09/memory-game.html)
