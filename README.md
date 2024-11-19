@@ -8,6 +8,9 @@
    -  [Apples](https://dengorp007.github.io/lab_02/black&white.html)
 -  Lab 3
    -  [Moon](https://dengorp007.github.io/lab_03/index1.html)
+-  Lab 4
+   - [Location](https://dengorp007.github.io/lab_04/location.html)
+   - [Museum](https://dengorp007.github.io/lab_04/museum.html)    
 -  Lab 5
    -  [Resume](https://dengorp007.github.io/lab_05/resume.html)
 -  Lab 6
