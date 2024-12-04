@@ -1,0 +1,204 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat';
+    
+}
+.header { 
+    background: url("apples.jpg") center no-repeat; 
+    background-size: cover; 
+    
+  }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    padding: 40px 20px 10px;
+}
+.featured-articles {
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+header {
+
+    background-color: #333;
+    
+    text-align: right;
+    
+}
+
+nav { 
+    padding: 10px; 
+    display: flex; 
+    justify-content: space-between; 
+} 
+ 
+nav>h3 { 
+    color: white; 
+    margin: 10px; 
+    padding-left: 40px; 
+    text-align: left;
+} 
+ 
+nav>ul { 
+    display: flex; 
+    margin: 0px; 
+    padding: 7px; 
+    height: 20px; 
+    line-height: 20px; 
+} 
+ 
+nav>ul>li { 
+    display: inline-block;     
+} 
+ 
+nav>ul>li>a { 
+    text-transform: capitalize; 
+} 
+
+
+h2 {
+    text-align: center;
+    
+    margin-bottom: 0px;
+}
+
+.highlight {
+    font-weight: bold;
+}
+h1 {
+    margin-top: 700;
+}
+
+
+  .pp {
+    font-size: 120px;
+  }
+  .parent {
+    position: relative;
+    height: 100vh; 
+}
+
+.child2 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    color: white;
+    font-weight: 200;
+    
+}
+
+.child {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 80px;
+    color: white;
+    font-weight: 500;
+}
+
+
+  
+
+  a, a:link, a:active, a:visited { 
+    color:#ffffff;   
+    padding: 5px 7px 10px 7px; 
+    font-size: 1.em;  
+    font-weight: bold; 
+    text-decoration: none; 
+    
+  } 
+  a:hover { 
+    color: white solid; 
+    
+  }
+ 
+  .show-more-button { 
+    background-color: rgba(0, 0, 0, 0.338); 
+    border: 3px solid white; 
+    color: white; 
+    padding: 15px 35px 15px 35px; 
+    width: 280px; 
+    margin: 90px auto; 
+    font-size: 14px; 
+    cursor: pointer; 
+    border-radius: 10px;
+    
+} 
+ 
+.button-container { 
+    display: flex; 
+    align-items: center;  
+    height: 5vh;  
+    margin-top: 200px; 
+    
+} 
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.highlight {
+    font-weight: bold;
+}
+
+.article {
+    display: flex;
+    margin-bottom: 20px;
+    background-color: #fff;
+    
+
+}
+
+.article img {
+    width: 70%;
+    object-fit: cover;
+    
+}
+
+.info {
+    padding: 20px;
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+
+.date {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.dropdown {
+    margin-left: auto;
+    font-size: 18px;
+    color: #888;
+}
+
+p {
+    color: #666;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+
+
+
+
