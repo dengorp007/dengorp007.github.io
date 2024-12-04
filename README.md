@@ -22,3 +22,5 @@
    -  [File Manager](https://dengorp007.github.io/lab_08/file-manager.html)
 -  Lab 9
    -  [Cards](https://dengorp007.github.io/lab_09/memory-game.html)
+-  Lab 10
+   -  [Tanks](https://dengorp007.github.io/lab_10/tanks.html)  
