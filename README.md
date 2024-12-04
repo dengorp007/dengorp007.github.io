@@ -9,7 +9,7 @@
 -  Lab 3
    -  [Moon](https://dengorp007.github.io/lab_03.2/planets1.html)
 -  Lab 4
-   - [Location](https://dengorp007.github.io/lab_04/location.html)
+   - [Location](https://dengorp007.github.io/lab_04/location1.html)
    - [Museum](https://dengorp007.github.io/lab_04/museum.html)    
 -  Lab 5
    -  [Resume](https://dengorp007.github.io/lab_05/resume.html)
