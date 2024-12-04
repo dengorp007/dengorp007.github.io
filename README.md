@@ -5,7 +5,7 @@
    - [Jananese Kitchen](https://dengorp007.github.io/lab_01/japanese_kitchen/japanese-kitchen1.html)
    - [The Future Of Cars](https://dengorp007.github.io/lab_01/the-future-of-cars/the-future-of-cars1.html)
 - Lab 2
-   -  [Apples](https://dengorp007.github.io/lab_02/black&white.html)
+   -  [Apples](https://dengorp007.github.io/lab_02/black&white1.html)
 -  Lab 3
    -  [Moon](https://dengorp007.github.io/lab_03/index1.html)
 -  Lab 4
