@@ -7,7 +7,7 @@
 - Lab 2
    -  [Apples](https://dengorp007.github.io/Lab_02/black&white1.html)
 -  Lab 3
-   -  [Moon](https://dengorp007.github.io/lab_03/planets1.html)
+   -  [Moon](https://dengorp007.github.io/lab_03.2/planets1.html)
 -  Lab 4
    - [Location](https://dengorp007.github.io/lab_04/location.html)
    - [Museum](https://dengorp007.github.io/lab_04/museum.html)    
