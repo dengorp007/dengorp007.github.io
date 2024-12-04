@@ -23,4 +23,6 @@
 -  Lab 9
    -  [Cards](https://dengorp007.github.io/lab_09/memory-game.html)
 -  Lab 10
-   -  [Tanks](https://dengorp007.github.io/lab_10/tanks.html)  
+   -  [Tanks](https://dengorp007.github.io/lab_10/tanks.html)
+-  Lab 12
+   -  [Pokemons](https://dengorp007.github.io/lab_12/pokemons.html) 
