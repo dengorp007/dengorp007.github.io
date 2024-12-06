@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Аналітична платформа для дронів</title>
+    <link rel="stylesheet" href="kursova.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Аналітична платформа для дронів RUSORIZ</h1>
+        </header>
+
+        
+        <section class="form-section">
+            <div class="form-container">
+                <h2>Додати компонент</h2>
+                <div class="form">
+                    <input type="text" id="component-name" placeholder="Назва компонента">
+                    <input type="number" id="component-price" placeholder="Ціна">
+                    <input type="number" id="component-quantity" placeholder="Кількість">
+                    <button onclick="addComponent()">Додати компонент</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="table-section">
+            <h2>Компоненти</h2>
+            <table id="components-table">
+                <thead>
+                    <tr>
+                        <th>Назва</th>
+                        <th>Ціна</th>
+                        <th>Кількість</th>
+                        <th>Дія</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Компоненти додаються сюди -->
+                </tbody>
+            </table>
+        </section>
+
+        <!-- Форма додавання дрону -->
+        <section class="form-section">
+            <div class="form-container">
+                <h2>Створити дрон</h2>
+                <div class="form">
+                    <input type="text" id="drone-name" placeholder="Назва дрону">
+                    <button onclick="createDrone()">Створити дрон</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="table-section">
+            <h2>Зібрані дрони</h2>
+            <table id="drones-table">
+                <thead>
+                    <tr>
+                        <th>Назва</th>
+                        <th>Компоненти</th>
+                        <th>Вартість</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Дрони додаються сюди -->
+                </tbody>
+            </table>
+        </section>
+
+    </div>
+
+    <script src="kursova.js"></script>
+</body>
+</html>
+
