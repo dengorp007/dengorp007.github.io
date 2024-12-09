@@ -1,20 +1,20 @@
-let secretNumber = Math.floor(Math.random() * 5) + 1; // Генеруємо випадкове число від 1 до 100
-let attempts = 0; // Лічильник спроб
-const maxAttempts = 3; // Максимальна кількість спроб
+let secretNumber = Math.floor(Math.random() * 5) + 1; 
+let attempts = 0; 
+const maxAttempts = 3; 
 
 function f1() {
-    const num = parseInt(document.getElementById('mynum').value); // Отримати введене число
-    const out = document.getElementById('out'); // Елемент для відображення результату
-    attempts++; // Збільшуємо кількість спроб
+    const num = parseInt(document.getElementById('mynum').value); 
+    const out = document.getElementById('out'); 
+    attempts++; 
 
     if (num === secretNumber) {
         let prize = 0;
         if (attempts === 1) {
-            prize = 30; // Перша спроба
+            prize = 30; 
         } else if (attempts === 2) {
-            prize = 20; // Друга спроба
+            prize = 20; 
         } else if (attempts === 3) {
-            prize = 10; // Третя спроба
+            prize = 10; 
         }
         out.innerHTML = `Вітаємо! Ви вгадали число ${secretNumber}. Ваш виграш: $${prize}. Гра почнеться наново.`;
         resetGame();
@@ -31,7 +31,7 @@ function f1() {
 }
 
 function resetGame() {
-    secretNumber = Math.floor(Math.random() * 5) + 1; // Нове випадкове число
-    attempts = 0; // Скидаємо лічильник спроб
-    document.getElementById('mynum').value = ''; // Очищуємо поле вводу
+    secretNumber = Math.floor(Math.random() * 5) + 1; 
+    attempts = 0; 
+    document.getElementById('mynum').value = ''; 
 }
