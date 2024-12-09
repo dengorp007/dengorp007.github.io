@@ -5,11 +5,11 @@
 }
 
 body {
-  background-image: url('<3-3oshb.png'); /* Вказуємо шлях до зображення */
-    background-size: cover; /* Покриває всю площу екрану */
-    background-position: center; /* Центрує зображення на екрані */
-    background-repeat: no-repeat; /* Не повторює зображення */
-    height: 100vh; /* Забезпечує покриття всього екрана */
+  background-image: url('<3-3oshb.png'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
 
   font-family: 'Roboto', sans-serif;
   background-color: #b88d31;
