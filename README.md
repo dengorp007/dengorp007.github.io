@@ -12,8 +12,8 @@
    - [Location](https://dengorp007.github.io/lab_04/index.html)
    - [Museum](https://dengorp007.github.io/lab_04/index2.html)    
 -  Lab 5
-   -  [Resume](https://dengorp007.github.io/lab_05/resume.html)
-   -  [Resume Light Theme](https://dengorp007.github.io/lab_05/resume-white.html)
+   -  [Resume](https://dengorp007.github.io/lab_05/index.html)
+   -  [Resume Light Theme](https://dengorp007.github.io/lab_05/index2.html)
 -  Lab 6
    -  [Calculator](https://dengorp007.github.io/lab_06/index.html)
 -  Lab 7
