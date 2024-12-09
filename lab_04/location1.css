@@ -138,9 +138,7 @@ body {
     color: #FFFFFF;
 }
 
-/* Media queries for responsiveness */
 
-/* Medium screens (tablet and smaller desktops) */
 @media (max-width: 1160px) {
     .info_text_left h1 {
         font-size: 50px;
@@ -156,7 +154,7 @@ body {
     }
 }
 
-/* Small screens (large mobile, tablet) */
+
 @media (max-width: 760px) {
     .info_box {
         flex-direction: column;
@@ -184,7 +182,7 @@ body {
     }
 }
 
-/* Mobile screens */
+
 @media (max-width: 480px) {
     .info_box {
         padding: 15px;
