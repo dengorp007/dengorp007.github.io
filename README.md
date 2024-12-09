@@ -17,7 +17,7 @@
 -  Lab 6
    -  [Calculator](https://dengorp007.github.io/lab_06/calculator.html)
 -  Lab 7
-   -  [Guess Number](https://dengorp007.github.io/lab_07/index777.html)
+   -  [Guess Number](https://dengorp007.github.io/lab_07/index.html)
 -  Lab 8
    -  [File Manager](https://dengorp007.github.io/lab_08/file-manager.html)
 -  Lab 9
