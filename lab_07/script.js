@@ -1,13 +1,13 @@
-let secretNumber = Math.floor(Math.random() * 5) + 1; // Генеруємо випадкове число від 1 до 100
-let attempts = 0; // Лічильник спроб
-const maxAttempts = 3; // Максимальна кількість спроб
+let secretNumber = Math.floor(Math.random() * 5) + 1; 
+let attempts = 0; 
+const maxAttempts = 3; 
 let balance = 0
 
 function f1() {
     console.log(secretNumber);
-    const num = parseInt(document.getElementById('mynum').value); // Отримати введене число
-    const out = document.getElementById('out'); // Елемент для відображення результату
-    attempts++; // Збільшуємо кількість спроб
+    const num = parseInt(document.getElementById('mynum').value); 
+    const out = document.getElementById('out'); 
+    attempts++; 
 
     if (num === secretNumber) {
         let prize = 0;
