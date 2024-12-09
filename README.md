@@ -15,7 +15,7 @@
    -  [Resume](https://dengorp007.github.io/lab_05/resume.html)
    -  [Resume Light Theme](https://dengorp007.github.io/lab_05/resume-white.html)
 -  Lab 6
-   -  [Calculator](https://dengorp007.github.io/lab_06/calculator.html)
+   -  [Calculator](https://dengorp007.github.io/lab_06/index.html)
 -  Lab 7
    -  [Guess Number](https://dengorp007.github.io/lab_07/index.html)
 -  Lab 8
