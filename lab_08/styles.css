@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+
+li {
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+
+
+
+summary {
+    font-weight: bold;
+    cursor: pointer;
+    list-style: none;
+    display: inline-flex;
+    align-items: center;
+}
+
+
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+    margin: 0;
+}
+
+
+
+.file {
+    font-style: italic;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+
+
+details > summary::-webkit-details-marker {
+    display: none;
+}
+
+
+
+details[open] > summary::before {
+    content: '📂';
+    margin-right: 5px;
+}
+
+
+
+
+.selected {
+    background-color: #f0f0f0;
+}
+
+
+
+summary::before {
+    content: '📁';
+    margin-right: 5px;
+}
+
+
+
+.file::before {
+    content: '📄';
+    margin-right: 5px;
+}
