@@ -19,12 +19,12 @@
 -  Lab 7
    -  [Guess Number](https://dengorp007.github.io/lab_07/index.html)
 -  Lab 8
-   -  [File Manager](https://dengorp007.github.io/lab_08/file-manager.html)
+   -  [File Manager](https://dengorp007.github.io/lab_08/index.html)
 -  Lab 9
-   -  [Cards](https://dengorp007.github.io/lab_09/memory-game.html)
+   -  [Cards](https://dengorp007.github.io/lab_09/index.html)
 -  Lab 10
    -  [Tanks](https://dengorp007.github.io/lab_10/index.html)
 -  Lab 12
-   -  [Pokemons](https://dengorp007.github.io/lab_12/pokemons.html)
+   -  [Pokemons](https://dengorp007.github.io/lab_12/index.html)
 -  Course Work Drones
    - [клац](https://dengorp007.github.io/course-work.drones/kursova.html) 
