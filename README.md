@@ -9,8 +9,8 @@
 -  Lab 3
    -  [Moon](https://dengorp007.github.io/lab_03.2/index.html)
 -  Lab 4
-   - [Location](https://dengorp007.github.io/lab_04/location1.html)
-   - [Museum](https://dengorp007.github.io/lab_04/museum.html)    
+   - [Location](https://dengorp007.github.io/lab_04/index.html)
+   - [Museum](https://dengorp007.github.io/lab_04/index2.html)    
 -  Lab 5
    -  [Resume](https://dengorp007.github.io/lab_05/resume.html)
    -  [Resume Light Theme](https://dengorp007.github.io/lab_05/resume-white.html)
