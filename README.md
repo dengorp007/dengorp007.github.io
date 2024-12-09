@@ -1,9 +1,9 @@
 
 # Denys Horpynenko
 - Lab 1
-   - [Food Page](https://dengorp007.github.io/lab_01/food-page/food-page1.html)
-   - [Jananese Kitchen](https://dengorp007.github.io/lab_01/japanese_kitchen/japanese-kitchen1.html)
-   - [The Future Of Cars](https://dengorp007.github.io/lab_01/the-future-of-cars/the-future-of-cars1.html)
+   - [Food Page](https://dengorp007.github.io/lab_01/food-page/index.html)
+   - [Jananese Kitchen](https://dengorp007.github.io/lab_01/japanese_kitchen/index.html)
+   - [The Future Of Cars](https://dengorp007.github.io/lab_01/the-future-of-cars/index.html)
 - Lab 2
    -  [Apples](https://dengorp007.github.io/Lab_02/index.html)
 -  Lab 3
